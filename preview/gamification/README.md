@@ -4,7 +4,11 @@ This is an isolated, interactive product/UI preview for PanchangSaathi's propose
 
 ## Open the preview
 
-https://htmlpreview.github.io/?https://github.com/sairajanaveen/PanchangSaathi/blob/preview/gamification-sitewide/preview/gamification/index.html
+Browser preview (development URL):
+https://raw.githack.com/sairajanaveen/PanchangSaathi/preview/gamification-sitewide/preview/gamification/index.html
+
+Source file:
+https://github.com/sairajanaveen/PanchangSaathi/blob/preview/gamification-sitewide/preview/gamification/index.html
 
 ## Included screens
 
@@ -29,4 +33,5 @@ https://htmlpreview.github.io/?https://github.com/sairajanaveen/PanchangSaathi/b
 - Points are demo-only and have no monetary value.
 - Future affiliate discounts and astrology reports are display-only concepts; redemption is disabled.
 - State is held in page memory and resets on refresh. No account or persistent browser storage is used.
+- The browser preview is served by a third-party raw-file service for testing only; it is not a permanent production host.
 - This work exists on the preview/gamification-sitewide branch. It does not change the production website or the private application source.
